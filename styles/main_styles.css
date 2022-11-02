@@ -973,6 +973,15 @@ section
 	margin-top: 71px;
 	padding-bottom: 102px;
 }
+.myspace{
+	margin: 20px;
+}
+.myGrid
+{
+	display: grid;
+	grid-template-columns: repeat(3,1fr);
+	grid-gap: 20px;
+}
 .themenu_col_title
 {
 	display: inline-block;
@@ -980,7 +989,7 @@ section
 	padding-left: 11px;
 	padding-right: 16px;
 	border: solid 2px #c4ab9f;
-	font-size: 28px;
+	font-size: 22px;
 	line-height: 54px;
 	color: #c4ab9f;
 }
