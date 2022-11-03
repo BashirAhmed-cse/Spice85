@@ -610,7 +610,7 @@ section
 {
 	width: 100%;
 	background: #FFFFFF;
-	padding-top: 102px;
+	/* padding-top: 102px; */
 	padding-bottom: 102px;
 	border-bottom: solid 2px #c4ab9f;
 }
